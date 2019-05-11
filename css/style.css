@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #383838;
+}
+
+body{
+    background-color: rgb(243, 243, 243);
+}
+
+
+/* Váriaveis */
+
+:root {
+    --cor: #660066;
+}
+
+
+
+
+
+nav{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.content{
+    padding-top: 50px;
+}
+
+h1{
+    font-weight: 200;
+    font-size: 3rem;
+    color: var(--cor);
+}
+
+.description{
+    font-size: 1.4rem;
+}
+
+.form-inicial{
+    padding: 50px;
+    padding-bottom: 20px;
+    width: 60%;
+    min-width: 350px;;
+    margin: 0 auto;
+}
